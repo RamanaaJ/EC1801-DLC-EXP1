@@ -85,6 +85,8 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1868" height="950" alt="Exp1-output" src="https://github.com/user-attachments/assets/bb59457a-f528-478c-b5ab-5f7a29672c04" />
+
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
@@ -104,6 +106,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 13.	What is the purpose of $dumpfile?
 14.	What is the purpose of $dumpvars?
 
-Result
+## Result
+
 Thus, the Boolean function was minimized, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
 
