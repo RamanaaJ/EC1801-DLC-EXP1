@@ -122,7 +122,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ## Output<img width="1853" height="987" alt="exp1" src="https://github.com/user-attachments/assets/b16e1fa2-442b-4e0b-8699-a2417fc11ec5" />
 
 
-### 8. Viva-Voce Questions
+### 7. Viva-Voce Questions
 1.	What is Boolean function minimization?
 2.	What is a minterm?
 3.	What is a Karnaugh map?
