@@ -119,8 +119,8 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
 
-## Output
-<img width="1868" height="950" alt="Exp1-output" src="https://github.com/user-attachments/assets/da48e54d-ef5c-47b4-957e-8ea2036f03d9" />
+## Output<img width="1853" height="987" alt="exp1" src="https://github.com/user-attachments/assets/b16e1fa2-442b-4e0b-8699-a2417fc11ec5" />
+
 
 ### 8. Viva-Voce Questions
 1.	What is Boolean function minimization?
